@@ -10,7 +10,7 @@ public class publicateWebService {
 	public static void main(String[] args) {
 		
 		EstoqueWS implementationWS = new EstoqueWS();
-		String URL = "http://localhost:8080/estoquews";
+		String URL = "http://localhost:8081/estoquews";
 
 		System.out.println("EstoqueWS rodando: " + URL);
 
