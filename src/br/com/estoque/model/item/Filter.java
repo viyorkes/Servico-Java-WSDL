@@ -1,6 +1,6 @@
 package br.com.estoque.model.item;
 
-
+//
 public class Filter{
 
 	private ItemType type;
